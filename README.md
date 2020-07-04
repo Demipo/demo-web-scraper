@@ -4,4 +4,4 @@ In this case, it used to get the entire HTML for a specified webpage.
 It outputs the result to console likewise to a designated file.
 
 ##Link
-Read more about WebScraper here: /https://en.wikipedia.org/wiki/Web_scraping
+Read more about WebScraper here: https://en.wikipedia.org/wiki/Web_scraping
